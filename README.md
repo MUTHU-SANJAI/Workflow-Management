@@ -1,3 +1,7 @@
+# Task Management Dashboard
+
+A modern, feature-rich task management dashboard built with React, TypeScript, and Tailwind CSS. This application provides comprehensive project management tools including real-time chat, analytics, team management, and calendar scheduling.
+
 ## Features
 
 - **Interactive Dashboard**
